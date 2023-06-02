@@ -1,0 +1,11 @@
+.Order_label {
+    color: red;
+    font-weight: bold;
+
+    width: 100%;
+    text-align: center;
+}
+
+.Order_box{
+    background-color: rgb(207, 206, 206);
+}
